@@ -68,7 +68,7 @@
             }
         });
     }
-
+ 
     function checkForm() {
         $("form button[type='submit']").click(function (e) {
             var $this = $(this),
